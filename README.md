@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![GitHub followers](https://img.shields.io/github/followers/FMigano?style=for-the-badge)](https://github.com/FMigano?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/FMigano?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/FMigano?tab=stars)
+
 <!--
 **FMigano/FMigano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
