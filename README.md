@@ -46,6 +46,17 @@ I care about writing code that is **clear**, **maintainable**, and **pleasant to
 <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,python,react,nodejs,vscode&perline=10" alt="Technology icons" />
 
 <br />
+<br />
+
+<strong>AI tools</strong>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor" />
+</p>
 
 <sub>Always learning, always experimenting, always improving.</sub>
 
@@ -65,6 +76,10 @@ I care about writing code that is **clear**, **maintainable**, and **pleasant to
 <br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FMigano&hide_border=true&background=00000000&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=64748B&dates=94A3B8" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FMigano&bg_color=00000000&color=7C3AED&line=F59E0B&point=DB2777&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
