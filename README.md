@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm **FMigano**
+# 👋 Hey, I'm **Frederick Allen Migano**
 
 ### Welcome to my corner of GitHub ✨
 
