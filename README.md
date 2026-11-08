@@ -43,7 +43,7 @@ I care about writing code that is **clear**, **maintainable**, and **pleasant to
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,python,react,nodejs,vscode&perline=10" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,python,react,nodejs,vscode,flutter,firebase,mysql,supabase&perline=10" alt="Technology icons" />
 
 <br />
 <br />
@@ -59,27 +59,6 @@ I care about writing code that is **clear**, **maintainable**, and **pleasant to
 </p>
 
 <sub>Always learning, always experimenting, always improving.</sub>
-
-</div>
-
-## 📊 GitHub activity
-
-<div align="center">
-
-<a href="https://github.com/FMigano">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=FMigano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=7C3AED&icon_color=F59E0B&text_color=64748B&bg_color=00000000" alt="Frederick's GitHub statistics" />
-</a>
-<a href="https://github.com/FMigano">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMigano&layout=compact&hide_border=true&langs_count=8&title_color=7C3AED&text_color=64748B&bg_color=00000000" alt="Frederick's top languages" />
-</a>
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FMigano&hide_border=true&background=00000000&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=64748B&dates=94A3B8" alt="GitHub contribution streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FMigano&bg_color=00000000&color=7C3AED&line=F59E0B&point=DB2777&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
